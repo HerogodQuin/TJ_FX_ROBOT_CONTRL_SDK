@@ -76,6 +76,8 @@
 
 ### 9. 跑PVT轨迹并保存数据的案列
             showcase_pvt.cpp
+            
+###以下三个DEMO还没有测试Ending,所以未显示对应Demo文件###
 
 ### 10. 为笛卡尔阻抗控制案列
             torque_cart_impedance_demo.cpp
