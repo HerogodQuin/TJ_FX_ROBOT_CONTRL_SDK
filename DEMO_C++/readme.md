@@ -80,6 +80,8 @@
 ### 10. 为笛卡尔阻抗控制案列
             torque_cart_impedance_demo.cpp
 
+### 以下三个案例DEMO还没有测试EndIng，所以未显示对应文件###
+
 ### 11. 为力控案列
             torque_force_impedance_demo.cpp
 
